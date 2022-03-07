@@ -1,0 +1,14 @@
+.UserCard{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.navbar-brand a{
+  color: aliceblue;
+  text-decoration: none;
+}
+.nav-link a{
+  color: aliceblue;
+  text-decoration: none;
+}
